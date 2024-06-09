@@ -1,6 +1,6 @@
 # theoretische-biologie-visualisiert
 
-This is a repository containing the source code for the animations in the video-series "Theoretische Biologie Visualisiert", which is produced .
+This repository contains the source code for the animations in the video-series "Theoretische Biologie Visualisiert", which is produced as part of the "Förderprogramm 2024: Digitale Medien in Forschung, Lehre und Studium" at Humboldt Universität zu Berlin.
 
 # Requirements
 
